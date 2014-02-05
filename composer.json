@@ -2,7 +2,7 @@
     "name": "nask0/Zf2-facebook-sdk",
     "description": "Zend Framework 2 module providing integration with Facebook php-sdk",
     "license": "MIT",
-    "keywords": ["facebook", "facebook-sdk' "zf2", "zend framework 2"],
+    "keywords": ["facebook", "facebook-sdk", "zf2", "zend framework 2"],
     "homepage": "https://github.com/nask0/Zf2-facebook-sdk.git",
     "require": {
         "php": ">=5.3.3",
